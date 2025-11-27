@@ -1,0 +1,13 @@
+things learned today in python-
+
+1. python basics(input/output, function variable, Syntax, indentation, data types,  Operators, Type casting, 
+F-strings)
+
+2. OOP
+- class
+- object
+- constructor(1. defaul, 2. parameterized)
+
+
+
+
