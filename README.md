@@ -2,7 +2,7 @@ A clean summary of everything I learned today while starting my journey.
 This repository will track my progress and help me revise quickly in the future. 
 ---
 
-# 📘Day 1
+# 📘Day 1 - (27/11/25)
 
 ## 🌟 Topics Covered Today
 
