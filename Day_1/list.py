@@ -30,5 +30,12 @@
 
 # slice
 nums = [34, 78, 90, 12, 19, 50]
-sliced = nums[1:4]
-print(sliced)
+# sliced = nums[1:4]
+# print(sliced)
+
+
+# sum = 0
+# for v in nums:
+#     sum += v
+
+# print(sum)

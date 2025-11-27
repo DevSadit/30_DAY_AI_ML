@@ -9,6 +9,7 @@ F-strings)
 - constructor(1. defaul, 2. parameterized)
 - static method (@staticmethod --->> decorator)
 
-
+3. List
+4. Dictionaries
 
 
