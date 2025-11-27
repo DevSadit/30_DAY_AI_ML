@@ -7,6 +7,7 @@ F-strings)
 - class
 - object
 - constructor(1. defaul, 2. parameterized)
+- static method (@staticmethod --->> decorator)
 
 
 
