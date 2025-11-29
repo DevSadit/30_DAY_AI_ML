@@ -26,7 +26,24 @@ Today I learned the **most important (80/20) parts of NumPy**. the features used
 
 ---
 
+# Day 3 - (29/11/25) Summary
+Today I covered the core foundations of Pandas:
+- ✔ Pandas Basics (Series & DataFrame)
+- ✔ Inspecting Data (head, info, shape)
+- ✔ Indexing & Selection (loc, iloc, filtering)
+- ✔ Data Cleaning (missing values, duplicates, replace)
+- ✔ Data Transformation (new columns, rename, broadcasting)
+- ✔ Merging & Concatenation (join datasets)
+
+
+---
+
 
 ## 📝 Notes
 This README will be updated daily as I continue improving my skills.
-**Stay tuned for Day 3!** ✨😉
+**Stay tuned for Day 4!** ✨😉
+
+
+
+
+
