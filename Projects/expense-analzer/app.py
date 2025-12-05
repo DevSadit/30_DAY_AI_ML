@@ -2,7 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # read and make df
-df = pd.read_csv("expense.csv")
+df = pd.read_csv
+("expense.csv")
 
 # transform to date
 df["date"] = pd.to_datetime(df["date"])
@@ -23,7 +24,6 @@ print(monthly_totals)
 
 category_total.plot(kind="bar")
 # monthly_totals.plot(kind="bar")
-# total.plot(kind="bar")
 plt.title("Expense by category")
 plt.xlabel("Category")
 plt.ylabel("Amount")
