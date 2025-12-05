@@ -1,0 +1,42 @@
+Shape:
+(20, 10)
+
+Missing Values:
+student_id          0
+gender              0
+age                 0
+study_hours         0
+attendance          0
+sleep_hours         0
+internet_access     0
+parent_education    0
+midterm_score       0
+final_score         0
+dtype: int64
+
+Data Types:
+student_id           int64
+gender              object
+age                  int64
+study_hours          int64
+attendance           int64
+sleep_hours          int64
+internet_access     object
+parent_education    object
+midterm_score        int64
+final_score          int64
+dtype: object
+
+Stats:
+       student_id        age  ...  midterm_score  final_score
+count    20.00000  20.000000  ...      20.000000    20.000000
+mean     10.50000  18.350000  ...      71.150000    75.300000
+std       5.91608   0.988087  ...      16.187308    16.033189
+min       1.00000  17.000000  ...      40.000000    45.000000
+25%       5.75000  18.000000  ...      57.500000    62.750000
+50%      10.50000  18.000000  ...      75.000000    80.000000
+75%      15.25000  19.000000  ...      83.500000    86.500000
+max      20.00000  20.000000  ...      95.000000    98.000000
+
+[8 rows x 7 columns]
+
