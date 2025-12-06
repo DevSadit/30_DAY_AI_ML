@@ -23,7 +23,6 @@ print(monthly_totals)
 # chart
 
 category_total.plot(kind="bar")
-# monthly_totals.plot(kind="bar")
 plt.title("Expense by category")
 plt.xlabel("Category")
 plt.ylabel("Amount")
